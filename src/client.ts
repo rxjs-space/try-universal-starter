@@ -15,6 +15,7 @@ import { load as loadWebFont } from 'webfontloader';
 
 import { MainModule } from './browser.module';
 
+
 export const platformRef = platformUniversalDynamic();
 
 // on document ready bootstrap Angular 2
